@@ -1,0 +1,15 @@
+C:\Users\musab\source\repos\Lightstone\Lightstone\bin\Debug\net6.0\Lightstone.exe
+C:\Users\musab\source\repos\Lightstone\Lightstone\bin\Debug\net6.0\Lightstone.deps.json
+C:\Users\musab\source\repos\Lightstone\Lightstone\bin\Debug\net6.0\Lightstone.runtimeconfig.json
+C:\Users\musab\source\repos\Lightstone\Lightstone\bin\Debug\net6.0\Lightstone.dll
+C:\Users\musab\source\repos\Lightstone\Lightstone\bin\Debug\net6.0\Lightstone.pdb
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.csproj.AssemblyReference.cache
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.AssemblyInfoInputs.cache
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.AssemblyInfo.cs
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.csproj.CoreCompileInputs.cache
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.dll
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\refint\Lightstone.dll
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.pdb
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\Lightstone.genruntimeconfig.cache
+C:\Users\musab\source\repos\Lightstone\Lightstone\obj\Debug\net6.0\ref\Lightstone.dll
